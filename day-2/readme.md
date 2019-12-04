@@ -1,0 +1,1 @@
+For this day, I used opcode.test to run my validation. `node opcode.test.js` will run through all combinations to find the expected result. Changing where the check is done will require you to modify code.
